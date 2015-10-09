@@ -1,10 +1,10 @@
 # Programming Project
 <hr>
 ## Group Members:
-Matthew Langford   *mattlangford95@ufl.edu*
-Aaron Myska               *xmyskac@ufl.edu*
-Jonathan Pereyra       *jpereyra24@ufl.edu*
-Kevin Wong             *kevin04126@ufl.edu*
-Jason Slater       *jasonslater004@ufl.edu*
-Blake Johnson         *bjohnson293@ufl.edu*
+Matthew Langford   *mattlangford95@ufl.edu* <br>
+Aaron Myska               *xmyskac@ufl.edu* <br>
+Jonathan Pereyra       *jpereyra24@ufl.edu* <br>
+Kevin Wong             *kevin04126@ufl.edu* <br>
+Jason Slater       *jasonslater004@ufl.edu* <br>
+Blake Johnson         *bjohnson293@ufl.edu* <br>
 <hr>
