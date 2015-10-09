@@ -8,3 +8,6 @@ Kevin Wong             *kevin04126@ufl.edu* <br>
 Jason Slater       *jasonslater004@ufl.edu* <br>
 Blake Johnson         *bjohnson293@ufl.edu* <br>
 <hr>
+
+[*Project suggestions/ideas here*](projects.txt "Project Ideas")
+
