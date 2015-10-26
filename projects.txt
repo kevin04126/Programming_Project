@@ -1,10 +1,18 @@
-Video Game
--Basic 2d scroller with random level generation and monster/loot spawns
--Jobs
-  * Display interface (display images, play sounds)
-  * Control interface (WASD, turn around animations, jump physics)
-  * Fighting interface (define weapons/enemies, Damage/Health Bar)
-  * Map Generation (randomly generate map, random enemy/loot spawns)
-  * Asset Creation (sprites/sounds)
-  * Background Character Tracking (keep track of loot/levels)
+Music Player
 
+Simple Arcade Style Game (space invaders/flappy bird/helicopter tunnel)
+
+Note organizer
+-Add folders
+-Different commands
+-Jobs
+  * Saving data
+  * Dealing with folders
+  * Note acquision
+  * Simple commands in the terminal within the program
+
+Stoplight
+
+Piano Hero
+
+Solving Problems (people with disabilities)
