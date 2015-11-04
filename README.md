@@ -16,5 +16,6 @@ Blake Johnson         *bjohnson293@ufl.edu* <br>
  * q,w,e,r,,,,,e,w,q would mean that for the first 1/16th a 'q' would need to be played, then the next beat would be a 'w'. When there are no letters  in between commas, that beat has no notes. Notes that you hold down may be q,q,q,q for example.
  * Multiple notes could be played each beat: qwe,rt,rt,rt,w,w,w,e
  * I just came up with this, so if you have a better implementation we can use that.
+
 -Need a way to keep score and display it. This could also include keeping a high score. <br>
 -We will all have to make atleast one song so that we have some kind of library. <br>
