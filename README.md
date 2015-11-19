@@ -27,11 +27,11 @@ Blake Johnson         *bjohnson293@ufl.edu* <br>
 -Create folders with tags that will be populated with notes automatticaly<br>
 -Ability to import and export notes<br>
 -Save notes<br>
--Notes Class <br>
-	-contents of the note<br>
-	-folders<br>
-	-tags<br>
-	-file name<br>
+-Notes Class
+ * contents of the note<br>
+ * folders<br>
+ * tags<br>
+ * file name<br>
 <br>
 -Tasks:
  * Read, write system of master file<br>
