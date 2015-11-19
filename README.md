@@ -19,3 +19,32 @@ Blake Johnson         *bjohnson293@ufl.edu* <br>
 
 -Need a way to keep score and display it. This could also include keeping a high score. <br>
 -We will all have to make atleast one song so that we have some kind of library. <br>
+
+
+##NoteManager++ TODO:
+-Config file that stores all parameters<br> 
+-Folder class with a tag attribute<br>
+-Create folders with tags that will be populated with notes automatticaly<br>
+-Ability to import and export notes<br>
+-Save notes<br>
+-Notes Class
+	-contents of the note
+	-folders
+	-tags
+	-file name
+<br>
+-Tasks:
+	-Read, write system of master file
+	-Command line UI
+		-menu
+		-make folders (real folders - OS dependant)
+		-make notes
+		-assign tags and folders to notes
+		-display notes
+	-Search functions (Tag, name, folder, words in text files?)
+	-Initial loading (assigning notes to classes, error handling)
+	-Editing existing tags and moving folders
+	-Error Checking
+-Future:
+	-Autoscan for changes
+	-Auto populate tags based on note contents
