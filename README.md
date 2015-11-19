@@ -33,7 +33,7 @@ Blake Johnson         *bjohnson293@ufl.edu* <br>
 	-tags<br>
 	-file name<br>
 <br>
--Tasks: <br>
+-Tasks:
  * Read, write system of master file<br>
  * Command line UI<br>
   * menu<br>
@@ -44,7 +44,8 @@ Blake Johnson         *bjohnson293@ufl.edu* <br>
  * Search functions (Tag, name, folder, words in text files?)<br>
  * Initial loading (assigning notes to classes, error handling)<br>
  * Editing existing tags and moving folders<br>
- * Error Checking<br>
+ * Error Checking<br><br>
+
 -Future:<br>
-	* Autoscan for changes<br>
-	* Auto populate tags based on note contents<br>
+ * Autoscan for changes<br>
+ * Auto populate tags based on note contents<br>
