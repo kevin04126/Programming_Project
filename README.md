@@ -27,24 +27,24 @@ Blake Johnson         *bjohnson293@ufl.edu* <br>
 -Create folders with tags that will be populated with notes automatticaly<br>
 -Ability to import and export notes<br>
 -Save notes<br>
--Notes Class
-	-contents of the note
-	-folders
-	-tags
-	-file name
+-Notes Class <br>
+	-contents of the note<br>
+	-folders<br>
+	-tags<br>
+	-file name<br>
 <br>
 -Tasks:
-	*Read, write system of master file
-	*Command line UI
-		*menu
-		*make folders (real folders - OS dependant)
-		*make notes
+	*Read, write system of master file<br>
+	*Command line UI<br>
+		*menu<br>
+		*make folders (real folders - OS dependant)<br>
+		*make notes<br>
 		*assign tags and folders to notes
-		*display notes
-	*Search functions (Tag, name, folder, words in text files?)
-	*Initial loading (assigning notes to classes, error handling)
-	*Editing existing tags and moving folders
-	*Error Checking
--Future:
-	*Autoscan for changes
-	*Auto populate tags based on note contents
+		*display notes<br>
+	*Search functions (Tag, name, folder, words in text files?)<br>
+	*Initial loading (assigning notes to classes, error handling)<br>
+	*Editing existing tags and moving folders<br>
+	*Error Checking<br>
+-Future:<br>
+	*Autoscan for changes<br>
+	*Auto populate tags based on note contents<br>
