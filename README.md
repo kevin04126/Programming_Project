@@ -32,7 +32,8 @@ Blake Johnson         *bjohnson293@ufl.edu* <br>
  * folders<br>
  * tags<br>
  * file name<br>
-<br><br>
+
+
 -Tasks:
  * Read, write system of master file<br>
  * Command line UI<br>
@@ -44,7 +45,7 @@ Blake Johnson         *bjohnson293@ufl.edu* <br>
  * Search functions (Tag, name, folder, words in text files?)<br>
  * Initial loading (assigning notes to classes, error handling)<br>
  * Editing existing tags and moving folders<br>
- * Error Checking<br><br>
+ * Error Checking<br>
 
 -Future:<br>
  * Autoscan for changes<br>
