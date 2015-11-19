@@ -34,17 +34,17 @@ Blake Johnson         *bjohnson293@ufl.edu* <br>
 	-file name
 <br>
 -Tasks:
-	-Read, write system of master file
-	-Command line UI
-		-menu
-		-make folders (real folders - OS dependant)
-		-make notes
-		-assign tags and folders to notes
-		-display notes
-	-Search functions (Tag, name, folder, words in text files?)
-	-Initial loading (assigning notes to classes, error handling)
-	-Editing existing tags and moving folders
-	-Error Checking
+	*Read, write system of master file
+	*Command line UI
+		*menu
+		*make folders (real folders - OS dependant)
+		*make notes
+		*assign tags and folders to notes
+		*display notes
+	*Search functions (Tag, name, folder, words in text files?)
+	*Initial loading (assigning notes to classes, error handling)
+	*Editing existing tags and moving folders
+	*Error Checking
 -Future:
-	-Autoscan for changes
-	-Auto populate tags based on note contents
+	*Autoscan for changes
+	*Auto populate tags based on note contents
